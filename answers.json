@@ -1,0 +1,182 @@
+[
+  {
+    "Question": "1. Efter vilken hastighet får man köra om på höger sida",
+    "A": "30km/h",
+    "B": "40km/h",
+    "C": "50km/h",
+    "D": "60km/h",
+    "key": "50km/h",
+    "answer": "50km/h"
+  },
+  {
+    "Question": "2. När är det sämst väggrepp vid regn",
+    "A": "När det har regnat ett tag",
+    "B": "Precis när det börjat regna",
+    "C": "Spelar ingen roll hur länge det har regnat",
+    "D": "När man kör över backkrön",
+    "key": "Precis när det börjat regna",
+    "answer": "Precis när det börjat regna"
+  },
+  {
+    "Question": "3. Vid en trafikolycka är en person medvetslös. Vad gör du?",
+    "A": "Ingenting eftersom jag inte var med i olyckan",
+    "B": "Ser till att luftvägar är fria gör HLR och ringer 112",
+    "C": "Lägger personen på rygg och ringer 112",
+    "D": "Ringer endast 112 och kör sedan vidare",
+    "key": "Ser till att luftvägar är fria gör HLR och ringer 112",
+    "answer": "Ringer endast 112 och kör sedan vidare"
+  },
+  {
+    "Question": "4. Var är halkrisken störst vid runt 0 grader",
+    "A": "På broar och viadukter",
+    "B": "På en hårdpackad grusväg",
+    "C": "På backkrön",
+    "D": "I svaga kurvor",
+    "key": "På broar och viadukter",
+    "answer": "På backkrön"
+  },
+  {
+    "Question": "5. Vad innebär en stopplikt?",
+    "A": "Man måste stanna och ge företräde för fordon på den andra vägen.",
+    "B": "Man måste stanna vid stoppskylten och fortsätta när det är fritt.",
+    "C": "Man måste sakta ner och vara redo att stanna om det är nödvändigt.",
+    "D": "Man måste blinka och byta körfält.",
+    "key": "Man måste stanna vid stoppskylten och fortsätta när det är fritt.",
+    "answer": "Man måste stanna vid stoppskylten och fortsätta när det är fritt."
+  },
+  {
+    "Question": "6. Vilken färg är varningsljus på ett fordon?",
+    "A": "Blå",
+    "B": "Röd",
+    "C": "Gul",
+    "D": "Grön",
+    "key": "Gul",
+    "answer": ""
+  },
+  {
+    "Question": "7. Vilket är det korrekta sättet att köra in på en motorväg?",
+    "A": "Sakta ner och vänta tills det är tomt på vägen.",
+    "B": "Öka hastigheten och försök komma in i luckan i trafiken.",
+    "C": "Vänta vid infarten tills det inte kommer några bilar och sedan köra in.",
+    "D": "Stanna och fråga andra förare om det är säkert att köra in.",
+    "key": "Vänta vid infarten tills det inte kommer några bilar och sedan köra in.",
+    "answer": ""
+  },
+  {
+    "Question": "8. Vad ska du göra om du ser en skylt med ordet 'Väjningsplikt'?",
+    "A": "Stanna och ge företräde för fordon som redan är på korsningen.",
+    "B": "Fortsätt utan att sakta ner.",
+    "C": "Klipp av andra förare för att visa din företrädesrätt.",
+    "D": "Byt körfält för att undvika att följa regeln.",
+    "key": "Stanna och ge företräde för fordon som redan är på korsningen.",
+    "answer": ""
+  },
+  {
+    "Question": "9. Vad innebär det att 'glida' när man kör?",
+    "A": "Att förlora kontrollen över fordonet på grund av halka.",
+    "B": "Att köra på en sluttning utan att använda bromsen.",
+    "C": "Att ändra körfält utan att blinka.",
+    "D": "Att accelerera snabbt från en stillastående position.",
+    "key": "Att förlora kontrollen över fordonet på grund av halka.",
+    "answer": ""
+  },
+  {
+    "Question": "10. När är det sämst väggrepp vid regn?",
+    "A": "När det har regnat ett tag",
+    "B": "Precis när det börjat regna",
+    "C": "Spelar ingen roll hur länge det har regnat",
+    "D": "När man kör över backkrön",
+    "key": "Precis när det börjat regna",
+    "answer": ""
+  },
+  {
+    "Question": "11. Vilken av dessa ljuskombinationer ska användas när du kör på natten?",
+    "A": "Helljus",
+    "B": "Dimljus",
+    "C": "Långt ljus",
+    "D": "Halvljus",
+    "key": "Halvljus",
+    "answer": ""
+  },
+  {
+    "Question": "12. Vilken är den högsta tillåtna alkoholkoncentrationen i blodet för en förare i Sverige?",
+    "A": "0,2 promille",
+    "B": "0,5 promille",
+    "C": "1,0 promille",
+    "D": "1,5 promille",
+    "key": "0,2 promille",
+    "answer": ""
+  },
+  {
+    "Question": "13. Vilken typ av övergångsställe är särskilt avsett för fotgängare?",
+    "A": "Vita linjer på vägen",
+    "B": "Gul markerad linje",
+    "C": "Röd ljussignal",
+    "D": "Blå skylt",
+    "key": "Vita linjer på vägen",
+    "answer": ""
+  },
+  {
+    "Question": "14. När ska du använda dimljusen?",
+    "A": "När det regnar",
+    "B": "Vid dimma, snöfall eller regn",
+    "C": "På motorvägen",
+    "D": "Vid starkt solljus",
+    "key": "Vid dimma, snöfall eller regn",
+    "answer": ""
+  },
+  {
+    "Question": "15. Vilket fordon har rätt att köra först vid en stopplikt?",
+    "A": "Motorcykel",
+    "B": "Cyklist",
+    "C": "Moped",
+    "D": "Buss",
+    "key": "Buss",
+    "answer": ""
+  },
+  {
+    "Question": "16. Vilken typ av körning är förbjuden på motorvägar?",
+    "A": "Orolig körning",
+    "B": "Sakta körning",
+    "C": "Backning",
+    "D": "Normal körning",
+    "key": "Backning",
+    "answer": ""
+  },
+  {
+    "Question": "17. Vad betyder det här vägmärket? [Bild av en bil med en vågig linje under]",
+    "A": "Varning för vägarbete",
+    "B": "Slirig väg",
+    "C": "Ojämn väg",
+    "D": "Skarpa kurvor",
+    "key": "Slirig väg",
+    "answer": ""
+  },
+  {
+    "Question": "18. Vad är den maximala tillåtna hastigheten för personbilar på landsvägar i Sverige?",
+    "A": "70 km/h",
+    "B": "80 km/h",
+    "C": "90 km/h",
+    "D": "100 km/h",
+    "key": "90 km/h",
+    "answer": ""
+  },
+  {
+    "Question": "19. Vad ska du göra när du kör om en cyklist?",
+    "A": "Klippa förbi snabbt",
+    "B": "Håll avståndet och kör om med försiktighet",
+    "C": "Skrika åt cyklisten att flytta sig",
+    "D": "Klaga högt över hastigheten",
+    "key": "Håll avståndet och kör om med försiktighet",
+    "answer": ""
+  },
+  {
+    "Question": "20. Vad betyder ett gult blinkande trafikljus?",
+    "A": "Stanna",
+    "B": "Kör försiktigt och var redo att stanna om det är nödvändigt",
+    "C": "Gå fort",
+    "D": "Inget, fortsätt som vanligt",
+    "key": "Kör försiktigt och var redo att stanna om det är nödvändigt",
+    "answer": ""
+  }
+]
