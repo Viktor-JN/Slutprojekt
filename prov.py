@@ -117,6 +117,7 @@ def open_popup():
     Button(top, text= "Avsluta", command=lambda:root.destroy()).pack()
     Button(top, text= "Visa svar", command=lambda:showanswers()).pack()
 
+#skapar en funktion för att visa alla frågor, svar och dina svar
 def showanswers():
     questionNumber=0
     shownAnswers= Toplevel(root)
@@ -124,14 +125,11 @@ def showanswers():
     shownAnswers.title("Resultat")
     Label(shownAnswers, text="Dina svar och de rätta svaren", font=("Arial", 25)).pack()
     Scrollb = Scrollbar(shownAnswers)
-    Scrollb.pack(side = RIGHT, fill=Y)
+    Scrollb.pack(side = RIGHT, fill=Y)#skapar scrollen för att kunna scrolla genom svaren
     with open("answers.json", 'r', encoding="utf-8") as f:
         answers = json.load(f)
-    LiBo = Listbox(shownAnswers, yscrollcommand=Scrollb.set, width=500)
-    for i in range(len(answers)):
-        #Label(shownAnswers, text="Fråga "+str(answers[questionNumber]["Question"]), font=("Arial", 12)).pack()
-        #Label(shownAnswers, text= "Ditt svar: "+str(answers[questionNumber]["answer"])).pack()
-        #Label(shownAnswers, text= "Rätt svar: "+str(answers[questionNumber]["key"])).pack()
+    LiBo = Listbox(shownAnswers, yscrollcommand=Scrollb.set, width=500) #skapar listan som ska hålla alla svaren, frågorna 
+    for i in range(len(answers)): #for loop som stoppar in alla frågor, svar och dina svar 
         LiBo.insert(END, "Fråga "+str(answers[questionNumber]["Question"]))
         LiBo.insert(END, "Rätt svar: "+str(answers[questionNumber]["key"]))
         LiBo.insert(END, "Ditt svar: "+str(answers[questionNumber]["answer"]))
